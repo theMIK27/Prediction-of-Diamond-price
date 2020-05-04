@@ -2,7 +2,7 @@
 Step 1: Understanding the Model 
 1.	According to the model, if a diamond is 1 carat heavier than another with the same cut, how much more should I expect to pay? Why?
 
-		As given formula, the amount of carat is multiplied by 8413. So, if a diamond is 1 carat heavier than another with the same cut, I 			should expect to pay $ 8413 more.
+		As given formula, the amount of carat is multiplied by 8413. So, if a diamond is 1 carat heavier than another with the same cut, I should expect to pay $ 8413 more.
 
 2.	If you were interested in a 1.5 carat diamond with a Very Good cut (represented by a 3 in the model) and a VS2 clarity rating (represented by a 5 in the model), how much would the model predict you should pay for it?
 
